@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-v2.6-blue) ![Python](https://img.shields.io/badge/python-3.10+-green) ![Built On](https://img.shields.io/badge/built%20on-Android-orange) ![UENR](https://img.shields.io/badge/UENR-UA2612947-yellow)
+![Version](https://img.shields.io/badge/version-v2.7-blue) ![Python](https://img.shields.io/badge/python-3.10+-green) ![Built On](https://img.shields.io/badge/built%20on-Android-orange) ![UENR](https://img.shields.io/badge/UENR-UA2612947-yellow)
 # Berich-Cloud-OS ☁️💻
 > A lightweight Cloud OS simulator built with Python on Android | My journey to becoming a Cloud Architect
 
