@@ -1,37 +1,34 @@
-![Version](https://img.shields.io/badge/version-v2.7-blue) ![Python](https://img.shields.io/badge/python-3.10+-green) ![Built On](https://img.shields.io/badge/built%20on-Android-orange) ![UENR](https://img.shields.io/badge/UENR-UA2612947-yellow)
-# Berich-Cloud-OS ☁️💻
-> A lightweight Cloud OS simulator built with Python on Android | My journey to becoming a Cloud Architect
 
-Built entirely on phone as a UENR Computer Engineering fresher (UA2612947) learning Linux + OS concepts.
+![version](https://img.shields.io/badge/version-v2.9-blue)
+![python](https://img.shields.io/badge/python-3.10+-green)
+![built on](https://img.shields.io/badge/built%20on-Android-orange)
+![UENR](https://img.shields.io/badge/UENR-UA2612947-yellow)
 
-### 🚀 What is it?
-Berich-Cloud-OS simulates a cloud operating system interface that can:
-- Manage files like a Linux terminal
-- Run Python apps in a sandboxed environment
-- Demonstrate OS concepts: process management, file system, cloud sync
-- Future: connect to real AWS / cloud storage
+# Berich-Cloud-OS ☁️ 💻
 
-### 🛠️ Tech Stack
-- Python
-- Android (Pydroid 3 / Termux)
-- Linux commands
-- OS concepts
+Cloud OS built 100% on Android in Ghana 🇬🇭
+UENR | UA2612947 | Theophilus
 
-### 📱 How to Run
-1. Install Pydroid 3 on Android
-2. Clone this repo: `git clone https://github.com/bericch-dotcor/Berich-Cloud-OS.git`
-3. Run `python main.py`
+## 🚀 Live Versions
+- v2.9 TERMINAL LIVE (7:05am) - Latest
+- v2.8 AUTH LIVE
+- v2.7 FILESYSTEM
 
-### 🎯 Roadmap
-- [x] Basic OS shell
-- [x] File manager
-- [ ] Cloud storage integration (AWS S3)
-- [ ] User login system
-- [ ] Web version (Jet App Hub integration)
+## 📦 Modules
+- filesystem.py - File operations
+- auth.py - Login system (admin + guest)
+- terminal.py - Berich Shell v1.0
 
-### 👨‍💻 Author
-Theophilus Agyemang - BSc Computer Engineering, UENR | Aspiring Cloud Architect | Ghana
-- GitHub: @bericch-dotcor
+## 🔌 Endpoints
+- `/` - OS info
+- `/files` - List files
+- `/auth/login?username=theophilus&password=bericch2026`
+- `/auth/users`
+- `/terminal?cmd=ls`
+- `/terminal?cmd=whoami&username=theophilus`
+- `/terminal/info`
 
----
-⭐ Star this repo if you like cloud engineering on mobile!
+## 💻 Berich Shell v1.0 Commands
+`ls` `pwd` `whoami` `date` `help` `clear`
+
+Built with FastAPI on Android | No Laptop
