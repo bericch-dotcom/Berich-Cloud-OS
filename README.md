@@ -2,7 +2,7 @@
 # Berich-Cloud-OS v4.0 ☁️
 **Personal Cloud OS Built 100% on Android Phone** 🇬🇭
 
-![Version](https://img.shields.io/badge/version-3.1-green)
+![Version](https://img.shields.io/badge/version-4.0-green)
 ![Built On](https://img.shields.io/badge/built%20on-Android-brightgreen)
 ![Stack](https://img.shields.io/badge/stack-FastAPI%20%2B%20Python-blue)
 
